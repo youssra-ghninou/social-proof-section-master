@@ -88,4 +88,54 @@ body{
     padding-left: 30px;
     align-items: center;
 }
-
+@media only screen and (min-width: 1024px) {
+    body{
+        justify-content: center;
+        flex-direction: row;
+    }
+    .main1{
+        display: flex;
+      flex-direction:row;
+      justify-content: left;
+      align-items: center;
+      gap: 4rem;
+      background-image: url(./images/bg-pattern-top-desktop.svg);
+      background-repeat: round;
+    }
+    .section{
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding-right: 95px;
+    }
+    .title{
+        width: 270px;
+        font-size: 40px;
+    }
+    .text{
+        width: 280px;
+        font-size: 16px;
+    }
+    .card1{
+        height: 55px;
+        width: 375px;
+    }
+    #c2{
+        margin-left: 50px;
+    }
+    #c3{
+        margin-left: 100px;
+    }
+    .cards2{
+        flex-direction: row;
+    }
+    .card2{
+        width: 300px;
+    }
+    #c22{
+        margin-top: 20px;
+    }
+    #c23{
+        margin-top: 40px;
+    }
+}
