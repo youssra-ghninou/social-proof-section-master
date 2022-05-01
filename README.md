@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social proof section](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -30,16 +30,16 @@ Users should be able to:
 
 - Mobile view :
 
-![](./images/screenshot.jpg)
+![](./images/screen%20mobile.jpeg)
 
 - Desktop view :
 
-![](./images/Desktop_preview.jpg)
+![](./images/screen%20desktop.png)
 
 ### Links
 
-- Solution URL: [https://github.com/aimdexter/stats-preview-card-component-main]
-- Live Site URL: [https://aimdexter.github.io/stats-preview-card-component-main/]
+- Solution URL: [Source](https://github.com/youssra-ghninou/social-proof-section-master)
+- Live Site URL: [Demo](https://youssra-ghninou.github.io/social-proof-section-master/)
 
 ## My process
 
@@ -52,9 +52,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@aimdexter](https://www.frontendmentor.io/profile/aimdexter)
+- Frontend Mentor - [@youssra-ghninou](https://www.frontendmentor.io/profile/youssra-ghninou)
 
 ## Acknowledgments
 
 Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
-Coded by <a href="https://github.com/aimdexter/">AimDexter</a>.
+Coded by <a href="https://github.com/youssra-ghninou">ussra</a>.

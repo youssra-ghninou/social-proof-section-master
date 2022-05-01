@@ -5,6 +5,8 @@ body{
     align-items: center;
     margin: 0px;
     padding: 0px;
+    width: 100vw;
+    height: 100vh;
 }
 .main{
     width: 300px;
@@ -17,6 +19,7 @@ body{
     align-items: center;
     text-align: center;
     gap: 2rem;
+    
 }
 .title{
     color: hsl(300, 43%, 22%);
@@ -92,15 +95,24 @@ body{
     body{
         justify-content: center;
         flex-direction: row;
+        
+    }
+    .main{
+        width: 1024px;
+        height: 700px;
+        background-image: url(./images/bg-pattern-bottom-desktop.svg), url(./images/bg-pattern-top-desktop.svg);
+        background-position: left bottom, left top;
+        background-repeat: no-repeat, no-repeat;
     }
     .main1{
         display: flex;
+        width: 900px;
       flex-direction:row;
       justify-content: left;
       align-items: center;
       gap: 4rem;
-      background-image: url(./images/bg-pattern-top-desktop.svg);
-      background-repeat: round;
+      
+     
     }
     .section{
         display: flex;
